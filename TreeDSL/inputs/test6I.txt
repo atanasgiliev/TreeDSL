@@ -1,0 +1,12 @@
+Charles
+Diana
+    William 1+2
+    Catherine
+        George 3+4
+            Charlotte 3+4
+        Louis 3+4
+    Harry 1+2
+    Meghan 8:m
+        Archie 8+9
+        Lilibet 8+9
+Camilla 1:m
